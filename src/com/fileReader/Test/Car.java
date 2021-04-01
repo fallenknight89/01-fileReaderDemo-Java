@@ -15,5 +15,8 @@ public String getModel() {
 public void setModel(String model) {
 	this.model = model;
 }
- 
+ public void changes() {
+	 //changes related to Ticket#134
+	 
+ }
 }
